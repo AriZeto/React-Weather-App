@@ -52,7 +52,7 @@ export default function Home() {
         each card is dependent on the JSON response from the API endpoint that
         is called.
       </p>
-      <span>Extra Credit: Complete!</span>
+      <span>Additonal functionality</span>
       <p>
         This web app contains two themes, a light mode, and a dark mode (whereas
         the dark mode is the default theme). The themes are toggled by a switch
@@ -60,9 +60,9 @@ export default function Home() {
       </p>
 
       <p>
-        Additionally, this web app also renders a map (powered by Leaflet) on
-        the 'Current Weather' page. The theme the user selects will also be
-        applied to the map.
+        Furthermore, this web app also renders a map (powered by Leaflet) on the
+        'Current Weather' page. The theme the user selects will also be applied
+        to the map.
       </p>
     </WeatherHomepage>
   );

@@ -24,8 +24,7 @@ export default function Footer() {
       <ul>
         <FooterOptions>
           <Link to="https://github.com/osu-cs494-w24/assignment-3-AriZeto">
-            &copy; Ari Zeto. Made for CS494 (Advanced Web Development) at Oregon
-            State University
+            &copy; 2024 Ariel Zeto.
           </Link>
         </FooterOptions>
       </ul>
